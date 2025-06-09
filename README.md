@@ -35,7 +35,7 @@
 ## 🌟 Featured Projects
 
 ### [Appoint Pro]([https://github.com/HemanthReddy4368/AppointPro](https://appointpro-bwb9dahea3c4chgx.canadacentral-01.azurewebsites.net/))
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=HemanthReddy4368&repo=AppointPro&theme=react" />
+<img align="right" width="300" src="[https://github-readme-stats.vercel.app/api/pin/?username=HemanthReddy4368&repo=AppointPro&theme=react](https://appointpro-bwb9dahea3c4chgx.canadacentral-01.azurewebsites.net/)" />
 
 _A comprehensive appointment booking application connecting patients with doctors._
 
