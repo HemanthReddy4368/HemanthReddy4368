@@ -64,10 +64,6 @@ _A comprehensive appointment booking application connecting patients with doctor
 - 🌐 [Portfolio Website](https://hemanthreddy.tech)
 - 📧 Feel free to reach out for collaborations or discussions!
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
-
 ---
 
 > "Code is like humor. When you have to explain it, it's bad." — Cory House
